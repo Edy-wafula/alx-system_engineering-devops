@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "ჵ.2f" $NUM | sort 
+printf "Ჵ.2f" $NUM | sort 
